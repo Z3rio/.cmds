@@ -18,6 +18,7 @@ doskey rm      = del $*
 doskey rmr     = deltree $*
 doskey sudo    = runas /user:administrator $*
 doskey touch   = copy NUL $*
+doskey ls      = dir
 
 :: Easier navigation
 doskey o       = start $*
