@@ -25,4 +25,4 @@ Which you can do by following these steps:
 
 ## File List
 
-Click [here](https://github.com/Z3rio/scripts) to view a list & explenation of all our files
+Click [here](https://github.com/Z3rio/.cmds/tree/main/scripts) to view a list & explenation of all our files
