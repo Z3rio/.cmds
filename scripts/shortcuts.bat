@@ -1,13 +1,11 @@
 @echo off
 
 :: Linux commands
-doskey alias   = doskey $*
 doskey cat     = type $*
 doskey clear   = cls
 doskey cp      = copy $*
 doskey cpr     = xcopy $*
 doskey grep    = find $*
-doskey history = doskey /history
 doskey kill    = taskkill /PID $*
 doskey ls      = dir $*
 doskey man     = help $*
